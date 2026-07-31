@@ -8,5 +8,9 @@
     "build:copy": "cp index.html web/ && rm -rf web/src && mkdir -p web/src && cp -r src/js src/data web/src/",
     "build": "npm run build:css && npm run build:copy",
     "dev": "python3 -m http.server 8082"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "tailwindcss": "^4.3.3"
   }
 }
