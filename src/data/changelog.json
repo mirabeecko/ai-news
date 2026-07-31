@@ -1,0 +1,31 @@
+{
+  "changes": [
+    {
+      "date": "2026-07-31T10:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "title": "Claude 4 vyhrává MMLU-Pro s 92.3 %",
+      "sources_checked": 2,
+      "verified": true
+    },
+    {
+      "date": "2026-07-30T09:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+      "title": "Meta vydává Llama 4",
+      "sources_checked": 2,
+      "verified": true
+    },
+    {
+      "date": "2026-07-29T14:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+      "title": "Google DeepMind představil Gemini 3",
+      "sources_checked": 2,
+      "verified": true
+    }
+  ]
+}

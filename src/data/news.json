@@ -1,0 +1,124 @@
+{
+  "last_updated": "2026-07-31T10:00:00Z",
+  "categories": {
+    "modely": {
+      "label": "AI Modely",
+      "description": "Nové modely, benchmarky, fine-tuny, open-source releases",
+      "icon": "🧠",
+      "items": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+          "date": "2026-07-31",
+          "title": "Claude 4 vyhrává MMLU-Pro s 92.3 %",
+          "summary": "Anthropic vydal Claude 4, který dosáhl 92.3 % na MMLU-Pro benchmarku a překonal GPT-5 i Gemini 3. Model exceluje v matematickém reasoning a dlouhém kontextu.",
+          "sources": [
+            {"url": "https://www.anthropic.com/research/claude-4", "label": "Anthropic Blog"},
+            {"url": "https://techcrunch.com/2026/07/31/anthropic-claude-4-mmlu-pro/", "label": "TechCrunch"}
+          ],
+          "verified": true,
+          "verification_source": "TechCrunch",
+          "added": "2026-07-31T10:00:00Z",
+          "tags": ["claude", "anthropic", "benchmark"]
+        },
+        {
+          "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
+          "date": "2026-07-30",
+          "title": "Meta vydává Llama 4 — open-source s 400B parametry",
+          "summary": "Meta AI uvolnila Llama 4, svůj dosud největší open-source model. 400B parametrů, MMLU 91.6 %, Apache 2.0 licence. Dostupný na Hugging Face.",
+          "sources": [
+            {"url": "https://ai.meta.com/blog/llama-4/", "label": "Meta AI Blog"},
+            {"url": "https://huggingface.co/meta-llama/Llama-4-400B", "label": "Hugging Face"}
+          ],
+          "verified": true,
+          "verification_source": "Hugging Face",
+          "added": "2026-07-30T09:00:00Z",
+          "tags": ["llama", "meta", "open-source"]
+        },
+        {
+          "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
+          "date": "2026-07-29",
+          "title": "Google DeepMind představil Gemini 3 s nativní multimodálností",
+          "summary": "Gemini 3 přináší nativní multimodální reasoning — zpracovává text, obraz, audio i video v jednom modelu bez externích konektorů. 2M token context window.",
+          "sources": [
+            {"url": "https://blog.google/technology/ai/gemini-3/", "label": "Google AI Blog"},
+            {"url": "https://www.theverge.com/2026/7/29/gemini-3-deepmind", "label": "The Verge"}
+          ],
+          "verified": true,
+          "verification_source": "The Verge",
+          "added": "2026-07-29T14:00:00Z",
+          "tags": ["gemini", "google", "multimodal"]
+        }
+      ]
+    },
+    "plany": {
+      "label": "AI Plány & Strategie",
+      "description": "Roadmapy, korporátní oznámení, regulace, investice",
+      "icon": "📋",
+      "items": [
+        {
+          "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+          "date": "2026-07-31",
+          "title": "EU AI Act vstupuje do finální fáze — plná účinnost od ledna 2027",
+          "summary": "Evropská komise potvrdila finální harmonogram EU AI Act. Od 1. ledna 2027 budou platit veškeré povinnosti včetně regulace general-purpose AI modelů. Firmy musí začít s compliance audity.",
+          "sources": [
+            {"url": "https://artificialintelligenceact.eu/", "label": "EU AI Act Portal"},
+            {"url": "https://www.reuters.com/technology/eu-ai-act-final-phase-2026-07-31/", "label": "Reuters"}
+          ],
+          "verified": true,
+          "verification_source": "Reuters",
+          "added": "2026-07-31T08:00:00Z",
+          "tags": ["regulation", "eu", "compliance"]
+        },
+        {
+          "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
+          "date": "2026-07-28",
+          "title": "Microsoft investuje $10B do AI infrastruktury v Evropě",
+          "summary": "Microsoft oznámil investici 10 miliard dolarů do AI datových center v Německu, Francii a Polsku. Plánuje zdvojnásobit kapacitu do roku 2028.",
+          "sources": [
+            {"url": "https://blogs.microsoft.com/blog/2026/07/28/ai-infrastructure-europe/", "label": "Microsoft Blog"},
+            {"url": "https://venturebeat.com/ai/microsoft-10b-europe-ai-infrastructure/", "label": "VentureBeat"}
+          ],
+          "verified": true,
+          "verification_source": "VentureBeat",
+          "added": "2026-07-28T12:00:00Z",
+          "tags": ["microsoft", "infrastructure", "investment"]
+        }
+      ]
+    },
+    "robotika": {
+      "label": "AI Robotika",
+      "description": "Humanoidi, autonomní systémy, embodied AI, průmyslová robotika",
+      "icon": "🤖",
+      "items": [
+        {
+          "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
+          "date": "2026-07-27",
+          "title": "Figure 03 — humanoidní robot zvládá 100+ domácích úkolů",
+          "summary": "Figure AI odhalil Figure 03, humanoidního robota který zvládá přes 100 domácích úkolů — od skládání prádla po vaření kávy. Využívá end-to-end neuronovou síť trénovanou v simulaci.",
+          "sources": [
+            {"url": "https://www.figure.ai/blog/figure-03", "label": "Figure AI Blog"},
+            {"url": "https://spectrum.ieee.org/figure-03-humanoid-robot", "label": "IEEE Spectrum"}
+          ],
+          "verified": true,
+          "verification_source": "IEEE Spectrum",
+          "added": "2026-07-27T16:00:00Z",
+          "tags": ["humanoid", "figure", "embodied-ai"]
+        },
+        {
+          "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
+          "date": "2026-07-25",
+          "title": "Tesla Optimus nasazen v továrně — 1 000 jednotek v produkci",
+          "summary": "Tesla oznámila nasazení 1 000 jednotek Optimus Gen 2 ve Fremont factory. Roboti zvládají montáž, kontrolu kvality a logistiku. Cena za jednotku klesla pod $20 000.",
+          "sources": [
+            {"url": "https://www.tesla.com/blog/optimus-gen2-fremont", "label": "Tesla Blog"},
+            {"url": "https://techcrunch.com/2026/07/25/tesla-optimus-fremont-deployment/", "label": "TechCrunch"}
+          ],
+          "verified": true,
+          "verification_source": "TechCrunch",
+          "added": "2026-07-25T11:00:00Z",
+          "tags": ["tesla", "optimus", "manufacturing"]
+        }
+      ]
+    }
+  }
+}

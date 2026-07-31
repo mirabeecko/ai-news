@@ -1,0 +1,12 @@
+{
+  "name": "ai-news",
+  "version": "1.0.0",
+  "description": "AI News — forever actual website. Novinky ze světa AI: modely, plány, robotika.",
+  "private": true,
+  "scripts": {
+    "build:css": "npx @tailwindcss/cli build src/css/tailwind.css -o web/assets/tailwind.css --minify",
+    "build:copy": "cp index.html web/ && rm -rf web/src && mkdir -p web/src && cp -r src/js src/data web/src/",
+    "build": "npm run build:css && npm run build:copy",
+    "dev": "python3 -m http.server 8082"
+  }
+}
