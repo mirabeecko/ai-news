@@ -1,0 +1,99 @@
+{
+  "_note": "Zdroje pro denní monitoring AI novinek. Uprav dle potřeby CEO.",
+  "sources": [
+    {
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/research",
+      "category": "modely",
+      "priority": "high",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/research/']"
+    },
+    {
+      "name": "Meta AI Blog",
+      "url": "https://ai.meta.com/blog/",
+      "category": "modely",
+      "priority": "high",
+      "check_type": "new_articles",
+      "selector_hint": "article a"
+    },
+    {
+      "name": "Google AI Blog",
+      "url": "https://blog.google/technology/ai/",
+      "category": "modely",
+      "priority": "high",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/technology/ai/']"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog/",
+      "category": "modely",
+      "priority": "high",
+      "check_type": "new_articles",
+      "selector_hint": "article a"
+    },
+    {
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "category": "modely",
+      "priority": "medium",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/2026/']"
+    },
+    {
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence",
+      "category": "modely",
+      "priority": "medium",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/2026/']"
+    },
+    {
+      "name": "EU AI Act Portal",
+      "url": "https://artificialintelligenceact.eu/",
+      "category": "plany",
+      "priority": "high",
+      "check_type": "new_articles",
+      "selector_hint": "article a"
+    },
+    {
+      "name": "Reuters AI",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "category": "plany",
+      "priority": "medium",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/technology/']"
+    },
+    {
+      "name": "Figure AI Blog",
+      "url": "https://www.figure.ai/blog",
+      "category": "robotika",
+      "priority": "high",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/blog/']"
+    },
+    {
+      "name": "Tesla AI Blog",
+      "url": "https://www.tesla.com/blog",
+      "category": "robotika",
+      "priority": "medium",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/blog/']"
+    },
+    {
+      "name": "IEEE Spectrum Robotics",
+      "url": "https://spectrum.ieee.org/topic/robotics/",
+      "category": "robotika",
+      "priority": "medium",
+      "check_type": "new_articles",
+      "selector_hint": "a[href*='/robotics/']"
+    }
+  ],
+  "verification_required": true,
+  "min_sources_for_new_entry": 2,
+  "output": {
+    "news_file": "src/data/news.json",
+    "changelog_file": "src/data/changelog.json"
+  }
+}
