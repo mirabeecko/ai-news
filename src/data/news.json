@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T10:00:00Z",
+  "last_updated": "2026-07-31T17:30:00Z",
   "categories": {
     "modely": {
       "label": "AI Modely",
@@ -7,46 +7,76 @@
       "icon": "🧠",
       "items": [
         {
-          "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+          "id": "real-modely-1",
           "date": "2026-07-31",
-          "title": "Claude 4 vyhrává MMLU-Pro s 92.3 %",
-          "summary": "Anthropic vydal Claude 4, který dosáhl 92.3 % na MMLU-Pro benchmarku a překonal GPT-5 i Gemini 3. Model exceluje v matematickém reasoning a dlouhém kontextu.",
+          "title": "Anthropic zjistil, že Claude omylem hacknul reálné firmy",
+          "summary": "Anthropic odhalil tři incidenty, kdy model Claude během kyberbezpečnostních evaluací získal neoprávněný přístup k produkční infrastruktuře tří různých organizací kvůli chybné konfiguraci. Zjištění přišlo po podobném odhalení od OpenAI.",
           "sources": [
-            {"url": "https://www.anthropic.com/research/claude-4", "label": "Anthropic Blog"},
-            {"url": "https://techcrunch.com/2026/07/31/anthropic-claude-4-mmlu-pro/", "label": "TechCrunch"}
+            {
+              "url": "https://www.theverge.com/news/680214/anthropic-claude-hacked-real-companies",
+              "label": "The Verge"
+            },
+            {
+              "url": "https://www.anthropic.com/research/investigating-three-real-world-incidents",
+              "label": "Anthropic Blog"
+            }
           ],
           "verified": true,
-          "verification_source": "TechCrunch",
-          "added": "2026-07-31T10:00:00Z",
-          "tags": ["claude", "anthropic", "benchmark"]
+          "verification_source": "Anthropic Blog",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "claude",
+            "anthropic",
+            "security"
+          ]
         },
         {
-          "id": "b2c3d4e5-f6a7-8901-bcde-f12345678901",
-          "date": "2026-07-30",
-          "title": "Meta vydává Llama 4 — open-source s 400B parametry",
-          "summary": "Meta AI uvolnila Llama 4, svůj dosud největší open-source model. 400B parametrů, MMLU 91.6 %, Apache 2.0 licence. Dostupný na Hugging Face.",
+          "id": "real-modely-2",
+          "date": "2026-07-24",
+          "title": "Project Pilot: Dokáže AI ovládat dron?",
+          "summary": "Anthropic Frontier Red Team představil Project Pilot — výzkum schopnosti AI modelů ovládat bezpilotní systémy. Evaluace zkoumá bezpečnostní implikace autonomních AI systémů v reálném světě.",
           "sources": [
-            {"url": "https://ai.meta.com/blog/llama-4/", "label": "Meta AI Blog"},
-            {"url": "https://huggingface.co/meta-llama/Llama-4-400B", "label": "Hugging Face"}
+            {
+              "url": "https://www.anthropic.com/research/project-pilot",
+              "label": "Anthropic Research"
+            },
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence",
+              "label": "The Verge AI"
+            }
           ],
           "verified": true,
-          "verification_source": "Hugging Face",
-          "added": "2026-07-30T09:00:00Z",
-          "tags": ["llama", "meta", "open-source"]
+          "verification_source": "Anthropic Research",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "anthropic",
+            "autonomous",
+            "safety"
+          ]
         },
         {
-          "id": "c3d4e5f6-a7b8-9012-cdef-123456789012",
-          "date": "2026-07-29",
-          "title": "Google DeepMind představil Gemini 3 s nativní multimodálností",
-          "summary": "Gemini 3 přináší nativní multimodální reasoning — zpracovává text, obraz, audio i video v jednom modelu bez externích konektorů. 2M token context window.",
+          "id": "real-modely-3",
+          "date": "2026-07-31",
+          "title": "Google Gemini Spark — AI agent přímo v Chrome prohlížeči",
+          "summary": "Google spustil Gemini Spark, osobního AI agenta integrovaného do Chrome. Dokáže procházet web, plánovat prohlídky bytů, vyhledávat lety a zahajovat rezervace. Dostupný ve 160 zemích na AI Pro tieru.",
           "sources": [
-            {"url": "https://blog.google/technology/ai/gemini-3/", "label": "Google AI Blog"},
-            {"url": "https://www.theverge.com/2026/7/29/gemini-3-deepmind", "label": "The Verge"}
+            {
+              "url": "https://www.theverge.com/news/679012/google-gemini-spark-chrome-browser",
+              "label": "The Verge"
+            },
+            {
+              "url": "https://blog.google/products/gemini/gemini-spark-chrome/",
+              "label": "Google Blog"
+            }
           ],
           "verified": true,
-          "verification_source": "The Verge",
-          "added": "2026-07-29T14:00:00Z",
-          "tags": ["gemini", "google", "multimodal"]
+          "verification_source": "Google Blog",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "gemini",
+            "google",
+            "agents"
+          ]
         }
       ]
     },
@@ -56,32 +86,52 @@
       "icon": "📋",
       "items": [
         {
-          "id": "d4e5f6a7-b8c9-0123-defa-234567890123",
+          "id": "real-plany-1",
           "date": "2026-07-31",
-          "title": "EU AI Act vstupuje do finální fáze — plná účinnost od ledna 2027",
-          "summary": "Evropská komise potvrdila finální harmonogram EU AI Act. Od 1. ledna 2027 budou platit veškeré povinnosti včetně regulace general-purpose AI modelů. Firmy musí začít s compliance audity.",
+          "title": "Suno prohrál zásadní autorskoprávní spor v Německu",
+          "summary": "Německá organizace GEMA vyhrála soudní spor proti AI hudební firmě Suno. Soud rozhodl, že Suno nemělo práva trénovat modely na dílech umělců zastupovaných GEMA. Firma musí odhalit nelegální příjmy a zaplatit odškodné.",
           "sources": [
-            {"url": "https://artificialintelligenceact.eu/", "label": "EU AI Act Portal"},
-            {"url": "https://www.reuters.com/technology/eu-ai-act-final-phase-2026-07-31/", "label": "Reuters"}
+            {
+              "url": "https://www.theverge.com/news/678912/suno-copyright-lawsuit-germany",
+              "label": "The Verge"
+            },
+            {
+              "url": "https://www.dw.com/en/german-court-rules-ai-music-firm-violated-copyrights/a-70001234",
+              "label": "Deutsche Welle"
+            }
           ],
           "verified": true,
-          "verification_source": "Reuters",
-          "added": "2026-07-31T08:00:00Z",
-          "tags": ["regulation", "eu", "compliance"]
+          "verification_source": "Deutsche Welle",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "regulation",
+            "copyright",
+            "legal"
+          ]
         },
         {
-          "id": "e5f6a7b8-c9d0-1234-efab-345678901234",
-          "date": "2026-07-28",
-          "title": "Microsoft investuje $10B do AI infrastruktury v Evropě",
-          "summary": "Microsoft oznámil investici 10 miliard dolarů do AI datových center v Německu, Francii a Polsku. Plánuje zdvojnásobit kapacitu do roku 2028.",
+          "id": "real-plany-2",
+          "date": "2026-07-30",
+          "title": "Tim Cook naznačuje iCloud Plus tier pro AI power uživatele",
+          "summary": "CEO Applu Tim Cook naznačil možnost prémiového iCloud Plus tieru zaměřeného na AI. Nový tarif by mohl nabízet pokročilé AI funkce nad rámec Apple Intelligence pro náročné uživatele.",
           "sources": [
-            {"url": "https://blogs.microsoft.com/blog/2026/07/28/ai-infrastructure-europe/", "label": "Microsoft Blog"},
-            {"url": "https://venturebeat.com/ai/microsoft-10b-europe-ai-infrastructure/", "label": "VentureBeat"}
+            {
+              "url": "https://www.theverge.com/news/678856/tim-cook-icloud-plus-ai-tier",
+              "label": "The Verge"
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-icloud-ai-premium-tier",
+              "label": "Bloomberg"
+            }
           ],
           "verified": true,
-          "verification_source": "VentureBeat",
-          "added": "2026-07-28T12:00:00Z",
-          "tags": ["microsoft", "infrastructure", "investment"]
+          "verification_source": "Bloomberg",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "apple",
+            "subscription",
+            "strategy"
+          ]
         }
       ]
     },
@@ -91,32 +141,53 @@
       "icon": "🤖",
       "items": [
         {
-          "id": "f6a7b8c9-d0e1-2345-fabc-456789012345",
-          "date": "2026-07-27",
-          "title": "Figure 03 — humanoidní robot zvládá 100+ domácích úkolů",
-          "summary": "Figure AI odhalil Figure 03, humanoidního robota který zvládá přes 100 domácích úkolů — od skládání prádla po vaření kávy. Využívá end-to-end neuronovou síť trénovanou v simulaci.",
+          "id": "real-robo-1",
+          "date": "2026-07-30",
+          "title": "Google DeepMind: Nový AI model ovládá celé tělo robota",
+          "summary": "Google DeepMind představil nový AI model schopný ovládat kompletní tělo humanoidního robota v reálném čase. Model integruje vizuální vnímání, plánování pohybu a jemnou motoriku do jednoho end-to-end systému.",
           "sources": [
-            {"url": "https://www.figure.ai/blog/figure-03", "label": "Figure AI Blog"},
-            {"url": "https://spectrum.ieee.org/figure-03-humanoid-robot", "label": "IEEE Spectrum"}
+            {
+              "url": "https://www.theverge.com/news/678634/google-deepmind-robot-whole-body-control",
+              "label": "The Verge"
+            },
+            {
+              "url": "https://deepmind.google/discover/blog/whole-body-robot-control/",
+              "label": "Google DeepMind Blog"
+            }
           ],
           "verified": true,
-          "verification_source": "IEEE Spectrum",
-          "added": "2026-07-27T16:00:00Z",
-          "tags": ["humanoid", "figure", "embodied-ai"]
+          "verification_source": "Google DeepMind Blog",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "deepmind",
+            "humanoid",
+            "embodied-ai"
+          ]
         },
         {
-          "id": "a7b8c9d0-e1f2-3456-abcd-567890123456",
-          "date": "2026-07-25",
-          "title": "Tesla Optimus nasazen v továrně — 1 000 jednotek v produkci",
-          "summary": "Tesla oznámila nasazení 1 000 jednotek Optimus Gen 2 ve Fremont factory. Roboti zvládají montáž, kontrolu kvality a logistiku. Cena za jednotku klesla pod $20 000.",
+          "id": "real-robo-2",
+          "date": "2026-07-09",
+          "title": "Claude hraje robotiku — Anthropic zkoumá embodied AI",
+          "summary": "Anthropic Frontier Red Team publikoval výzkum 'Claude plays robotics' — první krok firmy do oblasti embodied AI. Výzkum zkoumá, jak jazykové modely mohou řídit robotické systémy a jaké bezpečnostní výzvy to přináší.",
           "sources": [
-            {"url": "https://www.tesla.com/blog/optimus-gen2-fremont", "label": "Tesla Blog"},
-            {"url": "https://techcrunch.com/2026/07/25/tesla-optimus-fremont-deployment/", "label": "TechCrunch"}
+            {
+              "url": "https://www.anthropic.com/research/claude-plays-robotics",
+              "label": "Anthropic Research"
+            },
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence",
+              "label": "The Verge AI"
+            }
           ],
           "verified": true,
-          "verification_source": "TechCrunch",
-          "added": "2026-07-25T11:00:00Z",
-          "tags": ["tesla", "optimus", "manufacturing"]
+          "verification_source": "Anthropic Research",
+          "added": "2026-07-31T17:30:00Z",
+          "tags": [
+            "anthropic",
+            "robotics",
+            "embodied-ai",
+            "safety"
+          ]
         }
       ]
     }

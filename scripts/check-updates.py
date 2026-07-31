@@ -161,7 +161,7 @@ def generate_report(news_data, changelog_data, sources_data):
         "report_type": "daily_check",
         "generated_at": now,
         "project": "ai-news",
-        "site_url": "https://ai-news.vercel.app",
+        "site_url": "https://ai-news-six-delta.vercel.app",
         "summary": summary,
         "source_check": source_check,
         "last_check_date": last_check,
