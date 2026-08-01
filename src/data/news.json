@@ -1,11 +1,62 @@
 {
-  "last_updated": "2026-07-31T17:30:00Z",
+  "last_updated": "2026-08-01T06:05:31Z",
   "categories": {
     "modely": {
       "label": "AI Modely",
       "description": "Nové modely, benchmarky, fine-tuny, open-source releases",
       "icon": "🧠",
       "items": [
+        {
+          "id": "19286667f591",
+          "date": "2026-07-31",
+          "title": "DeepSeek spustil veřejnou beta verzi V4 modelů — cenová válka v AI",
+          "summary": "Čínský DeepSeek uvolnil veřejnou beta verzi modelů V4 včetně V4-Flash, který v agentních benchmarcích překonává i vlajkovou verzi V4 Pro. API je výrazně levnější než konkurence — až o 60 % oproti GPT-5.6 Luna — a rozjíždí třístrannou cenovou válku mezi OpenAI, DeepSeek a Anthropic.",
+          "sources": [
+            {
+              "url": "https://asia.nikkei.com/Business/Technology/DeepSeek-releases-beta-version-of-V4-models-as-AI-price-war-heats-up",
+              "label": "Nikkei Asia"
+            },
+            {
+              "url": "https://www.bloomberg.com/news/articles/2026-07-31/deepseek-v4-flash-api-public-beta",
+              "label": "Bloomberg"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Bloomberg",
+          "added": "2026-08-01T06:05:31Z",
+          "tags": [
+            "deepseek",
+            "open-source",
+            "pricing",
+            "agents"
+          ]
+        },
+        {
+          "id": "049ac0e1d622",
+          "date": "2026-07-29",
+          "title": "Sam Altman představil nový AI model 'Astra' v Kongresu — OpenAI sází na multi-agentní systémy",
+          "summary": "CEO OpenAI Sam Altman představil na Capitol Hillu nový model s kódovým označením 'Astra' — systém zaměřený na multi-agentní kooperaci a dlouhodobé úkoly. Schůzka s Kongresem proběhla v návaznosti na bezpečnostní incident s AI agentem a Altman připustil, že vývoj AI možná bude nutné zpomalit.",
+          "sources": [
+            {
+              "url": "https://www.politico.com/news/2026/07/29/sam-altman-capitol-hill-ai-model-preview",
+              "label": "Politico"
+            },
+            {
+              "url": "https://www.reuters.com/technology/openai-altman-discusses-rogue-agent-ai-models-with-senators-2026-07-30/",
+              "label": "Reuters"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Reuters",
+          "added": "2026-08-01T06:05:31Z",
+          "tags": [
+            "openai",
+            "astra",
+            "agents",
+            "regulation",
+            "policy"
+          ]
+        },
         {
           "id": "real-modely-1",
           "date": "2026-07-31",
@@ -140,6 +191,31 @@
       "description": "Humanoidi, autonomní systémy, embodied AI, průmyslová robotika",
       "icon": "🤖",
       "items": [
+        {
+          "id": "84a109af34b1",
+          "date": "2026-07-29",
+          "title": "USA zakázaly dovoz čínských humanoidních robotů z bezpečnostních důvodů",
+          "summary": "Administrativa prezidenta Trumpa zakázala dovoz nových čínských humanoidních robotů do USA. Zákaz zdůvodňuje národní bezpečností a ochranou amerického AI průmyslu. Čínské humanoidní roboty v posledních letech dominovaly globálnímu trhu.",
+          "sources": [
+            {
+              "url": "https://www.reuters.com/technology/trump-administration-bans-new-chinese-humanoid-robots-2026-07-29/",
+              "label": "Reuters"
+            },
+            {
+              "url": "https://www.pbs.org/newshour/politics/u-s-bans-foreign-made-humanoid-robots-targeting-china-over-national-security",
+              "label": "PBS"
+            }
+          ],
+          "verified": true,
+          "verification_source": "PBS",
+          "added": "2026-08-01T06:05:31Z",
+          "tags": [
+            "regulation",
+            "humanoid",
+            "china",
+            "national-security"
+          ]
+        },
         {
           "id": "real-robo-1",
           "date": "2026-07-30",

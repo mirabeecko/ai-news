@@ -1,6 +1,33 @@
 {
   "changes": [
     {
+      "date": "2026-08-01T06:05:31Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "19286667f591",
+      "title": "DeepSeek V4 beta",
+      "sources_checked": 6,
+      "verified": true
+    },
+    {
+      "date": "2026-08-01T06:05:31Z",
+      "action": "added",
+      "category": "robotika",
+      "item_id": "84a109af34b1",
+      "title": "US bans Chinese humanoid robots",
+      "sources_checked": 4,
+      "verified": true
+    },
+    {
+      "date": "2026-08-01T06:05:31Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "049ac0e1d622",
+      "title": "Sam Altman Astra Capitol Hill",
+      "sources_checked": 4,
+      "verified": true
+    },
+    {
       "date": "2026-07-31T17:30:00Z",
       "action": "replaced_all",
       "note": "Nahrazení placeholder dat reálnými ověřenými novinkami z The Verge, Anthropic Research, Google DeepMind, Deutsche Welle.",
