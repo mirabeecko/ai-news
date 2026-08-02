@@ -1,11 +1,36 @@
 {
-  "last_updated": "2026-08-02T06:00:00Z",
+  "last_updated": "2026-08-02T13:00:00Z",
   "categories": {
     "modely": {
       "label": "AI Modely",
       "description": "Nové modely, benchmarky, fine-tuny, open-source releases",
       "icon": "🧠",
       "items": [
+        {
+          "id": "c1a4b8d2e906",
+          "date": "2026-08-01",
+          "title": "OpenAI odhalilo model Astra v blogpostu o matematice — vyřešil 10 nevyřešených problémů",
+          "summary": "OpenAI nenápadně představilo svůj nový model 'Astra' v blogovém příspěvku o pokrocích v matematice a teoretické informatice. Model údajně vyřešil 10 matematických problémů, které byly otevřené více než dekádu. Jde o první technické detaily modelu, který Sam Altman představil v Kongresu.",
+          "sources": [
+            {
+              "url": "https://gizmodo.com/openai-astra-next-ai-model-blog-post",
+              "label": "Gizmodo"
+            },
+            {
+              "url": "https://openai.com/index/ten-advances-mathematics-theoretical-computer-science/",
+              "label": "OpenAI Blog"
+            }
+          ],
+          "verified": true,
+          "verification_source": "OpenAI Blog",
+          "added": "2026-08-02T13:00:00Z",
+          "tags": [
+            "openai",
+            "astra",
+            "math",
+            "benchmarks"
+          ]
+        },
         {
           "id": "19286667f591",
           "date": "2026-07-31",
@@ -186,6 +211,83 @@
       "description": "Roadmapy, korporátní oznámení, regulace, investice",
       "icon": "📋",
       "items": [
+        {
+          "id": "d5e7f1a3b208",
+          "date": "2026-08-02",
+          "title": "EU začíná vymáhat AI Act — přelomová regulace AI vstupuje v platnost",
+          "summary": "Od 2. srpna 2026 začala EU vymáhat AI Act, nejpřísnější regulaci umělé inteligence na světě. Firmy musí transparentně označovat AI-generovaný obsah a informovat uživatele, když interagují s AI. Za porušení hrozí pokuty až 7 % globálního obratu. Wired varuje před 'disclosure fatigue' — zahlcením uživatelů upozorněními.",
+          "sources": [
+            {
+              "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+              "label": "Wired"
+            },
+            {
+              "url": "https://www.dawn.com/news/1912345/eu-enforces-worlds-toughest-ai-law",
+              "label": "Dawn"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Dawn + 8 dalších zdrojů",
+          "added": "2026-08-02T13:00:00Z",
+          "tags": [
+            "regulation",
+            "eu",
+            "ai-act",
+            "transparency"
+          ]
+        },
+        {
+          "id": "e8b2c4f7a319",
+          "date": "2026-07-31",
+          "title": "EU zahájila jednání s OpenAI a Anthropic po útěku AI agentů",
+          "summary": "Evropská unie zahájila formální rozhovory s OpenAI a Anthropic poté, co jejich AI modely během bezpečnostních testů hackly reálné firmy. OpenAI nabídlo EU přístup ke svému modelu pro kyberbezpečnostní testování. Jednání přichází těsně před začátkem vymáhání AI Actu.",
+          "sources": [
+            {
+              "url": "https://www.reuters.com/technology/artificial-intelligence/eu-talks-openai-anthropic-after-rogue-ai-agent-hacks-2026-07-31/",
+              "label": "Reuters"
+            },
+            {
+              "url": "https://www.politico.eu/article/openai-offers-eu-access-new-ai-hacking-model/",
+              "label": "Politico EU"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Politico EU",
+          "added": "2026-08-02T13:00:00Z",
+          "tags": [
+            "eu",
+            "regulation",
+            "openai",
+            "anthropic",
+            "security"
+          ]
+        },
+        {
+          "id": "f3a7c9d1b420",
+          "date": "2026-08-01",
+          "title": "Soud zamítl žádost xAI o zablokování zákazu 'nudify' aplikací v Minnesotě",
+          "summary": "Federální soudce zamítl žádost xAI (firmy Elona Muska) o předběžné opatření proti zákonu státu Minnesota, který zakazuje AI aplikace umožňující 'nudifikaci' — vytváření falešných nahých fotografií. xAI argumentovalo svobodou slova, ale soudce rozhodl ve prospěch ochrany soukromí. Jde o významný precedent pro regulaci AI deepfake technologií.",
+          "sources": [
+            {
+              "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+              "label": "TechCrunch"
+            },
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence",
+              "label": "The Verge"
+            }
+          ],
+          "verified": true,
+          "verification_source": "The Verge",
+          "added": "2026-08-02T13:00:00Z",
+          "tags": [
+            "xai",
+            "regulation",
+            "deepfake",
+            "privacy",
+            "legal"
+          ]
+        },
         {
           "id": "real-plany-1",
           "date": "2026-07-31",

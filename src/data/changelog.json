@@ -1,6 +1,46 @@
 {
   "changes": [
     {
+      "date": "2026-08-02T13:00:00Z",
+      "action": "added",
+      "category": "plany",
+      "item_id": "d5e7f1a3b208",
+      "title": "EU AI Act enforcement begins",
+      "sources_checked": 12,
+      "verified": true,
+      "verification_sources": ["Wired", "Dawn", "EUbusiness.com", "Firstpost", "Tech Times", "Reed Smith"]
+    },
+    {
+      "date": "2026-08-02T13:00:00Z",
+      "action": "added",
+      "category": "plany",
+      "item_id": "e8b2c4f7a319",
+      "title": "EU in talks with OpenAI and Anthropic after agent hacks",
+      "sources_checked": 12,
+      "verified": true,
+      "verification_sources": ["Reuters", "Politico EU", "Tech Times"]
+    },
+    {
+      "date": "2026-08-02T13:00:00Z",
+      "action": "added",
+      "category": "plany",
+      "item_id": "f3a7c9d1b420",
+      "title": "Judge denies xAI request to block Minnesota nudify ban",
+      "sources_checked": 12,
+      "verified": true,
+      "verification_sources": ["TechCrunch", "The Verge"]
+    },
+    {
+      "date": "2026-08-02T13:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "c1a4b8d2e906",
+      "title": "OpenAI Astra solves 10 open math problems",
+      "sources_checked": 12,
+      "verified": true,
+      "verification_sources": ["Gizmodo", "OpenAI Blog", "livemint.com"]
+    },
+    {
       "date": "2026-08-02T06:00:00Z",
       "action": "added",
       "category": "modely",
