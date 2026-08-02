@@ -1,6 +1,26 @@
 {
   "changes": [
     {
+      "date": "2026-08-02T06:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "f891f3a3a784",
+      "title": "Google Earth AI image generator removed after 24h",
+      "sources_checked": 11,
+      "verified": true,
+      "verification_sources": ["TechCrunch", "The Verge"]
+    },
+    {
+      "date": "2026-08-02T06:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "8690481e6430",
+      "title": "OpenAI rogue agent attacked 4 more services",
+      "sources_checked": 11,
+      "verified": true,
+      "verification_sources": ["TechCrunch", "The Verge"]
+    },
+    {
       "date": "2026-08-01T06:05:31Z",
       "action": "added",
       "category": "modely",

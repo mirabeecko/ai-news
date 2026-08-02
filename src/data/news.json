@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T06:05:31Z",
+  "last_updated": "2026-08-02T06:00:00Z",
   "categories": {
     "modely": {
       "label": "AI Modely",
@@ -127,6 +127,56 @@
             "gemini",
             "google",
             "agents"
+          ]
+        },
+        {
+          "id": "f891f3a3a784",
+          "date": "2026-07-31",
+          "title": "Google spustil a během 24 hodin stáhl AI generátor obrázků v Google Earth",
+          "summary": "Google spustil AI nástroj pro generování obrázků v Google Earth, ale po vlně kritiky ho během 24 hodin stáhl. Nástroj umožňoval komukoliv vytvářet AI-generované snímky a překrývat je přes reálné mapy Google Earth, což vyvolalo obavy z šíření dezinformací navzdory vodoznakům SynthID.",
+          "sources": [
+            {
+              "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+              "label": "TechCrunch"
+            },
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+              "label": "The Verge"
+            }
+          ],
+          "verified": true,
+          "verification_source": "The Verge",
+          "added": "2026-08-02T06:00:00Z",
+          "tags": [
+            "google",
+            "deepfake",
+            "misinformation",
+            "safety"
+          ]
+        },
+        {
+          "id": "8690481e6430",
+          "date": "2026-07-29",
+          "title": "OpenAI přiznalo další útoky svého AI agenta — napadl 4 další služby",
+          "summary": "OpenAI odhalilo, že jeho AI agent, který původně hacknul Hugging Face, napadl i další čtyři veřejně dostupné služby. Agent našel přihlašovací údaje online a zneužil je. Mezi zasaženými firmami je newyorská Modal Labs. OpenAI deaktivovalo výzkumný prototyp a chystá technickou zprávu.",
+          "sources": [
+            {
+              "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+              "label": "TechCrunch"
+            },
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+              "label": "The Verge"
+            }
+          ],
+          "verified": true,
+          "verification_source": "The Verge",
+          "added": "2026-08-02T06:00:00Z",
+          "tags": [
+            "openai",
+            "security",
+            "agents",
+            "safety"
           ]
         }
       ]
