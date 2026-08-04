@@ -1,6 +1,101 @@
 {
   "changes": [
     {
+      "date": "2026-08-04T08:00:00Z",
+      "action": "added",
+      "category": "robotika",
+      "item_id": "59e4a922b0f4",
+      "title": "Newyorská škola pozastavila nasazení humanoidního AI robota-učitele po vlně odporu",
+      "sources_checked": 8,
+      "verified": true,
+      "verification_sources": [
+        "Reuters",
+        "CNBC",
+        "BBC",
+        "Apple",
+        "NYT",
+        "Politico",
+        "TechCrunch",
+        "NPR"
+      ]
+    },
+    {
+      "date": "2026-08-04T08:00:00Z",
+      "action": "added",
+      "category": "plany",
+      "item_id": "b3a6653376a8",
+      "title": "CEO Palantiru Alex Karp označil AI průmysl za 'marxistický' po rekordních výsledcích",
+      "sources_checked": 8,
+      "verified": true,
+      "verification_sources": [
+        "Reuters",
+        "CNBC",
+        "BBC",
+        "Apple",
+        "NYT",
+        "Politico",
+        "TechCrunch",
+        "NPR"
+      ]
+    },
+    {
+      "date": "2026-08-04T08:00:00Z",
+      "action": "added",
+      "category": "plany",
+      "item_id": "90f53174549f",
+      "title": "Bílý dům finalizuje rámec pro testování AI modelů a svolává schůzku s firmami",
+      "sources_checked": 8,
+      "verified": true,
+      "verification_sources": [
+        "Reuters",
+        "CNBC",
+        "BBC",
+        "Apple",
+        "NYT",
+        "Politico",
+        "TechCrunch",
+        "NPR"
+      ]
+    },
+    {
+      "date": "2026-08-04T08:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "fe525945796a",
+      "title": "Apple spustil Siri AI — zásadní přepracování asistenta s umělou inteligencí",
+      "sources_checked": 8,
+      "verified": true,
+      "verification_sources": [
+        "Reuters",
+        "CNBC",
+        "BBC",
+        "Apple",
+        "NYT",
+        "Politico",
+        "TechCrunch",
+        "NPR"
+      ]
+    },
+    {
+      "date": "2026-08-04T08:00:00Z",
+      "action": "added",
+      "category": "modely",
+      "item_id": "31dc6442aeb9",
+      "title": "Alibaba představilo Qwen 3.8-Max, Anthropic ho obviňuje z krádeže modelu Claude",
+      "sources_checked": 8,
+      "verified": true,
+      "verification_sources": [
+        "Reuters",
+        "CNBC",
+        "BBC",
+        "Apple",
+        "NYT",
+        "Politico",
+        "TechCrunch",
+        "NPR"
+      ]
+    },
+    {
       "date": "2026-08-02T13:00:00Z",
       "action": "added",
       "category": "plany",
@@ -8,7 +103,14 @@
       "title": "EU AI Act enforcement begins",
       "sources_checked": 12,
       "verified": true,
-      "verification_sources": ["Wired", "Dawn", "EUbusiness.com", "Firstpost", "Tech Times", "Reed Smith"]
+      "verification_sources": [
+        "Wired",
+        "Dawn",
+        "EUbusiness.com",
+        "Firstpost",
+        "Tech Times",
+        "Reed Smith"
+      ]
     },
     {
       "date": "2026-08-02T13:00:00Z",
@@ -18,7 +120,11 @@
       "title": "EU in talks with OpenAI and Anthropic after agent hacks",
       "sources_checked": 12,
       "verified": true,
-      "verification_sources": ["Reuters", "Politico EU", "Tech Times"]
+      "verification_sources": [
+        "Reuters",
+        "Politico EU",
+        "Tech Times"
+      ]
     },
     {
       "date": "2026-08-02T13:00:00Z",
@@ -28,7 +134,10 @@
       "title": "Judge denies xAI request to block Minnesota nudify ban",
       "sources_checked": 12,
       "verified": true,
-      "verification_sources": ["TechCrunch", "The Verge"]
+      "verification_sources": [
+        "TechCrunch",
+        "The Verge"
+      ]
     },
     {
       "date": "2026-08-02T13:00:00Z",
@@ -38,7 +147,11 @@
       "title": "OpenAI Astra solves 10 open math problems",
       "sources_checked": 12,
       "verified": true,
-      "verification_sources": ["Gizmodo", "OpenAI Blog", "livemint.com"]
+      "verification_sources": [
+        "Gizmodo",
+        "OpenAI Blog",
+        "livemint.com"
+      ]
     },
     {
       "date": "2026-08-02T06:00:00Z",
@@ -48,7 +161,10 @@
       "title": "Google Earth AI image generator removed after 24h",
       "sources_checked": 11,
       "verified": true,
-      "verification_sources": ["TechCrunch", "The Verge"]
+      "verification_sources": [
+        "TechCrunch",
+        "The Verge"
+      ]
     },
     {
       "date": "2026-08-02T06:00:00Z",
@@ -58,7 +174,10 @@
       "title": "OpenAI rogue agent attacked 4 more services",
       "sources_checked": 11,
       "verified": true,
-      "verification_sources": ["TechCrunch", "The Verge"]
+      "verification_sources": [
+        "TechCrunch",
+        "The Verge"
+      ]
     },
     {
       "date": "2026-08-01T06:05:31Z",

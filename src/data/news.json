@@ -1,11 +1,81 @@
 {
-  "last_updated": "2026-08-02T13:00:00Z",
+  "last_updated": "2026-08-04T08:00:00Z",
   "categories": {
     "modely": {
       "label": "AI Modely",
       "description": "Nové modely, benchmarky, fine-tuny, open-source releases",
       "icon": "🧠",
       "items": [
+        {
+          "id": "fe525945796a",
+          "date": "2026-08-03",
+          "title": "Apple spustil Siri AI — zásadní přepracování asistenta s umělou inteligencí",
+          "summary": "Apple oficiálně spustil Siri AI — kompletně přepracovaného hlasového asistenta poháněného umělou inteligencí. Představení přišlo po WWDC 2026 spolu s iOS 27 a macOS Golden Gate. TechCrunch píše, že spuštění působí 'antiklimaticky' — Apple AI zaostává za ChatGPT. Tim Cook naznačil, že Apple může za pokročilé AI funkce Siri účtovat prémiový poplatek, a označil hybridní AI strategii za 'konkurenční zbraň'. NYT doporučuje 5 promptů, jak si na novou Siri zvyknout.",
+          "sources": [
+            {
+              "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-anticlimactic/",
+              "label": "TechCrunch"
+            },
+            {
+              "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-siri-ai/",
+              "label": "Apple"
+            },
+            {
+              "url": "https://www.nytimes.com/2026/08/03/technology/apple-siri-ai-prompts.html",
+              "label": "NYT"
+            },
+            {
+              "url": "https://www.axios.com/2026/08/03/tim-cook-apple-siri-ai-premium-charge",
+              "label": "Axios"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Apple + NYT + Axios + TechCrunch",
+          "added": "2026-08-04T08:00:00Z",
+          "tags": [
+            "apple",
+            "siri",
+            "ios",
+            "assistant",
+            "premium"
+          ]
+        },
+        {
+          "id": "31dc6442aeb9",
+          "date": "2026-08-03",
+          "title": "Alibaba představilo Qwen 3.8-Max, Anthropic ho obviňuje z krádeže modelu Claude",
+          "summary": "Čínské Alibaba představilo svůj dosud nejvýkonnější model Qwen 3.8-Max, který podle vlastních benchmarků konkuruje Anthropic Claude Fable 5. Zároveň však Anthropic veřejně obvinil Alibabu z 'drzé a nelegální' kampaně, při které údajně použila přes 25 000 falešných účtů k extrakci schopností modelu Claude. Alibaba obvinění popírá, její akcie klesly o 25 %. Jde o další eskalaci čínsko-americké AI rivality.",
+          "sources": [
+            {
+              "url": "https://www.theverge.com/ai-artificial-intelligence",
+              "label": "The Verge"
+            },
+            {
+              "url": "https://www.reuters.com/technology/artificial-intelligence/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities/",
+              "label": "Reuters"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/08/03/anthropic-accuses-alibaba-of-campaign-to-brazenly-extract-ai.html",
+              "label": "CNBC"
+            },
+            {
+              "url": "https://www.wsj.com/tech/ai/anthropic-claims-alibaba-ran-brazen-campaign-to-access-claude-ai/",
+              "label": "WSJ"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Reuters + CNBC + WSJ + BBC",
+          "added": "2026-08-04T08:00:00Z",
+          "tags": [
+            "alibaba",
+            "qwen",
+            "anthropic",
+            "claude",
+            "china",
+            "security",
+            "controversy"
+          ]
+        },
         {
           "id": "c1a4b8d2e906",
           "date": "2026-08-01",
@@ -212,6 +282,67 @@
       "icon": "📋",
       "items": [
         {
+          "id": "b3a6653376a8",
+          "date": "2026-08-04",
+          "title": "CEO Palantiru Alex Karp označil AI průmysl za 'marxistický' po rekordních výsledcích",
+          "summary": "Alex Karp, CEO Palantiru, po oznámení meziročního růstu tržeb o 93 % označil AI průmysl za 'marxistický'. Kontroverzní výrok přichází v době, kdy firma profituje z boomu vládních a obranných AI kontraktů. Karp kritizuje AI laboratoře, které podle něj 'rozdávají' své modely zdarma, zatímco Palantir sází na uzavřený enterprise model. Jen 16 % Američanů věří, že AI bude mít pozitivní dopad na společnost.",
+          "sources": [
+            {
+              "url": "https://techcrunch.com/2026/08/04/palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+              "label": "TechCrunch"
+            },
+            {
+              "url": "https://startupfortune.com/palantir-posts-revenue-growth-ceo-calls-ai-labs-marxist/",
+              "label": "Startup Fortune"
+            }
+          ],
+          "verified": true,
+          "verification_source": "TechCrunch + Startup Fortune",
+          "added": "2026-08-04T08:00:00Z",
+          "tags": [
+            "palantir",
+            "enterprise",
+            "business",
+            "controversy"
+          ]
+        },
+        {
+          "id": "90f53174549f",
+          "date": "2026-08-04",
+          "title": "Bílý dům finalizuje rámec pro testování AI modelů a svolává schůzku s firmami",
+          "summary": "Bílý dům finalizoval dobrovolný rámec pro kyberbezpečnostní testování AI modelů a na úterý 5. srpna svolal uzavřenou schůzku s předními AI společnostmi — včetně OpenAI, Anthropic a Google. Rámec je formálně dobrovolný, podle Tech Times se ale 'v praxi stává povinným'. Politico dodává, že jde o součást širší Trumpovy exekutivní zakázky, která dává agentuře CAISI 30 dní na implementaci. Schůzka přichází po sérii incidentů s AI agenty.",
+          "sources": [
+            {
+              "url": "https://www.cnbc.com/2026/08/04/white-house-to-host-ai-companies-tuesday-to-review-new-model-testing-framework.html",
+              "label": "CNBC"
+            },
+            {
+              "url": "https://www.politico.com/news/2026/08/04/white-house-finalizes-artificial-intelligence-oversight-framework",
+              "label": "Politico"
+            },
+            {
+              "url": "https://www.pymnts.com/artificial-intelligence-2/2026/white-house-finalizes-voluntary-ai-cybersecurity-testing-framework/",
+              "label": "PYMNTS"
+            },
+            {
+              "url": "https://siliconangle.com/2026/08/04/white-house-invites-ai-companies-review-new-ai-safety-framework/",
+              "label": "SiliconANGLE"
+            }
+          ],
+          "verified": true,
+          "verification_source": "CNBC + Politico + PYMNTS + SiliconANGLE",
+          "added": "2026-08-04T08:00:00Z",
+          "tags": [
+            "white-house",
+            "regulation",
+            "safety",
+            "policy",
+            "openai",
+            "anthropic",
+            "google"
+          ]
+        },
+        {
           "id": "d5e7f1a3b208",
           "date": "2026-08-02",
           "title": "EU začíná vymáhat AI Act — přelomová regulace AI vstupuje v platnost",
@@ -343,6 +474,32 @@
       "description": "Humanoidi, autonomní systémy, embodied AI, průmyslová robotika",
       "icon": "🤖",
       "items": [
+        {
+          "id": "59e4a922b0f4",
+          "date": "2026-08-03",
+          "title": "Newyorská škola pozastavila nasazení humanoidního AI robota-učitele po vlně odporu",
+          "summary": "Škola ve státě New York musela pozastavit plán nasazení humanoidního AI robota jako učitele poté, co vyvolal vlnu odporu veřejnosti. Incident vedl k návrhu zákona, který by zakázal humanoidní roboty ve školách. NPR zdůrazňuje, že případ otevřel širší debatu o roli AI a robotů ve vzdělávání. Zákaz dovozu čínských humanoidních robotů do USA tento vývoj dále komplikuje.",
+          "sources": [
+            {
+              "url": "https://www.npr.org/2026/08/03/new-york-school-pauses-ai-robot-teacher-backlash",
+              "label": "NPR"
+            },
+            {
+              "url": "https://www.newyorkfocus.com/2026/08/03/bill-ban-humanoid-robots-schools/",
+              "label": "New York Focus"
+            }
+          ],
+          "verified": true,
+          "verification_source": "NPR + New York Focus",
+          "added": "2026-08-04T08:00:00Z",
+          "tags": [
+            "robotics",
+            "humanoid",
+            "education",
+            "regulation",
+            "ethics"
+          ]
+        },
         {
           "id": "84a109af34b1",
           "date": "2026-07-29",
