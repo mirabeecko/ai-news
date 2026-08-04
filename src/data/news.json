@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T08:00:00Z",
+  "last_updated": "2026-08-04T07:13:15Z",
   "categories": {
     "modely": {
       "label": "AI Modely",
@@ -343,6 +343,33 @@
           ]
         },
         {
+          "id": "d3017c4b3c03",
+          "date": "2026-08-03",
+          "title": "Kongres USA nejvíce používá ChatGPT — OpenAI dominuje AI nástrojům na Capitol Hillu",
+          "summary": "Analýza výdajů Sněmovny reprezentantů ukázala, že ChatGPT od OpenAI je zdaleka nejpoužívanějším AI nástrojem v Kongresu USA. Kongresové kanceláře používají ChatGPT k psaní memorand, sumarizaci legislativy a komunikaci s voliči. Dominance ChatGPT přichází v době, kdy zákonodárci současně zvažují regulaci AI. CNBC dodává, že výdaje Kongresu na AI prudce rostou, přičemž OpenAI výrazně předbíhá Anthropic i další firmy.",
+          "sources": [
+            {
+              "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+              "label": "TechCrunch"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html",
+              "label": "CNBC"
+            }
+          ],
+          "verified": true,
+          "verification_source": "TechCrunch + CNBC",
+          "added": "2026-08-04T07:13:15Z",
+          "tags": [
+            "congress",
+            "chatgpt",
+            "openai",
+            "policy",
+            "government",
+            "regulation"
+          ]
+        },
+        {
           "id": "d5e7f1a3b208",
           "date": "2026-08-02",
           "title": "EU začíná vymáhat AI Act — přelomová regulace AI vstupuje v platnost",
@@ -498,6 +525,33 @@
             "education",
             "regulation",
             "ethics"
+          ]
+        },
+        {
+          "id": "f0ae4f2965f7",
+          "date": "2026-07-30",
+          "title": "Google DeepMind představil Gemini Robotics 2.0 — lepší obratnost a bezpečnost robotů",
+          "summary": "Google DeepMind odhalil Gemini Robotics 2.0, novou generaci AI modelu pro ovládání robotů. Nová verze obsahuje tři modely a slibuje výrazně vylepšenou obratnost robotických systémů a bezpečnostní prvky. Zatím je veřejně dostupný pouze jeden ze tří modelů. Jde o další krok Google v oblasti embodied AI, kde firma spojuje jazykové modely Gemini s fyzickými robotickými systémy.",
+          "sources": [
+            {
+              "url": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2/",
+              "label": "Ars Technica"
+            },
+            {
+              "url": "https://spectrum.ieee.org/topic/robotics/",
+              "label": "IEEE Spectrum"
+            }
+          ],
+          "verified": true,
+          "verification_source": "Ars Technica + IEEE Spectrum",
+          "added": "2026-08-04T07:13:15Z",
+          "tags": [
+            "google",
+            "deepmind",
+            "gemini",
+            "robotics",
+            "humanoid",
+            "embodied-ai"
           ]
         },
         {

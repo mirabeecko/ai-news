@@ -1,6 +1,32 @@
 {
   "changes": [
     {
+      "date": "2026-08-04T07:13:26Z",
+      "action": "added",
+      "category": "plany",
+      "item_id": "d3017c4b3c03",
+      "title": "Congress uses ChatGPT — OpenAI dominates Capitol Hill AI tools",
+      "sources_checked": 5,
+      "verified": true,
+      "verification_sources": [
+        "TechCrunch",
+        "CNBC"
+      ]
+    },
+    {
+      "date": "2026-08-04T07:13:26Z",
+      "action": "added",
+      "category": "robotika",
+      "item_id": "f0ae4f2965f7",
+      "title": "Google DeepMind Gemini Robotics 2.0",
+      "sources_checked": 5,
+      "verified": true,
+      "verification_sources": [
+        "Ars Technica",
+        "IEEE Spectrum"
+      ]
+    },
+    {
       "date": "2026-08-04T08:00:00Z",
       "action": "added",
       "category": "robotika",
